@@ -1,0 +1,2 @@
+# Metabolic_analysis_clinical_isolates_aztreonam_resistance
+Python codes for building integrative metabolic models and screening for mutation effects
