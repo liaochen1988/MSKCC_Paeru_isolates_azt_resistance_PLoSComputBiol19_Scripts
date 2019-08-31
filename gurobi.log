@@ -1,0 +1,242 @@
+
+Gurobi 8.1.1 (mac64, Python) logging started Sat Aug 31 14:34:31 2019
+
+Academic license - for non-commercial use only
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp7xf_ovl3.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpi5hotyyh.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpnucj1x3y.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpnupmtpbw.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpgablvz9e.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpzp1brf1t.lp
+Reading time = 0.01 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpefe16k78.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp9hwp1xif.lp
+Reading time = 0.01 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpyxvxk6q2.lp
+Reading time = 0.07 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpzg4jd437.lp
+Reading time = 0.03 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp6ci_j63v.lp
+Reading time = 0.06 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpevofxbmj.lp
+Reading time = 0.03 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpce9yxe1f.lp
+Reading time = 0.05 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpavpz09ll.lp
+Reading time = 0.03 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+
+Gurobi 8.1.1 (mac64, Python) logging started Sat Aug 31 17:49:50 2019
+
+Academic license - for non-commercial use only
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp3os_iyl1.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp0pt4o_bc.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp1cmmj758.lp
+Reading time = 0.05 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpqxcw3f6v.lp
+Reading time = 0.04 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp5gdk49jn.lp
+Reading time = 0.04 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpu51j9l82.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmppadie56w.lp
+Reading time = 0.07 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpyswg9th8.lp
+Reading time = 0.03 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpenvhhjfm.lp
+Reading time = 0.04 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp38ond193.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp0jkyb69b.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpfayf95py.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp8d9iehsa.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp_939vvp3.lp
+Reading time = 0.01 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpta3lh66_.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpucyeos_7.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpft_4b4t1.lp
+Reading time = 0.01 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp5m7yjfyv.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp6u23viye.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp3o52zfs5.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp1rm5a18p.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmpwxog565e.lp
+Reading time = 0.07 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp_lbw_hh3.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp07v2484i.lp
+Reading time = 0.04 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
+Warning: Numeric variable name in LP file ('13DAMPPabcpp') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zg/9bd_wdgn3qg8kl1z973r48mjxx5dnb/T/tmp14pn7zf9.lp
+Reading time = 0.02 seconds
+: 2087 rows, 5652 columns, 22456 nonzeros
